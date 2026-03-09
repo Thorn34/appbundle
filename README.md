@@ -11,4 +11,3 @@ git tag v1.0.0
 git push origin v1.0.0
 cd /home/ubuntu/nursing-home-store/android
 JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ./gradlew bundleRelease
-/home/ubuntu/nursing-home-store/android/app/build/outputs/bundle/release/app-release.aab
